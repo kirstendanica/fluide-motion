@@ -18,11 +18,13 @@
 </script>
 
 <svelte:head>
-  <title>FLUIDEFORM Surf + Pilates - Discover Your Strength</title>
+  <title>Fluid M/Ocean | Pilates & Surf Studio</title>
+  <meta name="description" content="Fluid M/Ocean | Where Pilates meets the waves.">
 </svelte:head>
 
-<section id="home" class="text-center py-20 bg-gray-100">
-  <h1 class="text-4xl font-bold mb-4">Welcome to FLUIDEFORM</h1>
+<section id="home" class="text-center py-32 bg-gradient-to-b from-ocean-200 to-ocean-400">
+  <h1 class="text-5xl font-bold mb-4 text-white">Welcome to Fluid M/Ocean
+  <br>〰</h1>
   <p class="text-xl mb-8">Discover your strength. Ignite your balance.</p>
   <a href="#classes" class="bg-blue-500 text-white px-6 py-3 rounded-lg hover:bg-blue-600 transition duration-300">
     Explore Our Classes
@@ -31,9 +33,9 @@
 
 <section id="about" class="py-20">
   <div class="container mx-auto px-4">
-    <h2 class="text-3xl font-bold mb-8 text-center">About FLUIDEFORM</h2>
+    <h2 class="text-3xl font-bold mb-8 text-center">About</h2>
     <p class="text-xl mb-8 text-center">
-      FLUIDEFORM Surf + Pilates is where strength meets the waves. We combine the core-strengthening power of Pilates with the balance and agility needed for surfing.
+      Fluid M/Ocean Pilates + Surf is the movement studio where strength meets the waves. We combine the core-strengthening power of Pilates with the balance and agility needed for surfing.
     </p>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
       <div>
